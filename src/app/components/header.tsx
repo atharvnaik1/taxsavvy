@@ -9,7 +9,7 @@ const Header: React.FC = () => {
 
 
       <nav className={styles.navbarLeft}>
-        <img src="/taxsavvy.png" alt="Logo" className={styles.logo} />
+        
         <ul className={styles.navbarList}>
           <li className={styles.navbarItem}>
             <a href="#" className={styles.navbarLink}>For Business</a>
@@ -18,7 +18,8 @@ const Header: React.FC = () => {
       </nav>
 
       <h1 className={styles.header}>
-        TaxSavy
+        <img src="/taxsavvy.png" alt="Logo" className={styles.logo} />
+        
       </h1>
 
       {/* Navbar Right */}
