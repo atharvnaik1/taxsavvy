@@ -7,7 +7,6 @@
         "server/middleware-build-manifest.js",
         "server/middleware-react-loadable-manifest.js",
         "server/next-font-manifest.js",
-        "prerender-manifest.js",
         "server/edge-runtime-webpack.js",
         "server/app/api/chat/route.js"
       ],
