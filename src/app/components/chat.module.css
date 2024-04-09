@@ -132,6 +132,7 @@
 @media only screen and (max-width: 640px) {
   .chatContainer {
     width: 100%;
+    margin-bottom: 20px;
     /* Adjust width for smaller screens */
   }
 
